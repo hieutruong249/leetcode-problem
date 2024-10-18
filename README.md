@@ -3,9 +3,10 @@
 Welcome to the LeetCode Solutions repository! Here, you'll find daily solutions to LeetCode problems, complete with detailed explanations and code in multiple languages.
 
 ## Table of Contents
-| Problem Number                                                                             | Problem Name | Jump into Code                                  | Explanation | Difficulty Level |
-|--------------------------------------------------------------------------------------------|--------------|--------------------------------------------------|-------------|------------------|
-| [#640](https://leetcode.com/problems/maximum-swap?envType=daily-question&envId=2024-10-18) | Maximum Swap | [Java](Algorithms/daily/problem670/code/Solution.java) |             | Medium             |
+| Problem Number                                                                               | Problem Name                               | Jump into Code                                  | Explanation | Difficulty Level |
+|----------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------------|-------------|------------------|
+| [#640](https://leetcode.com/problems/maximum-swap?envType=daily-question&envId=2024-10-18)   | Maximum Swap                               | [Java](Algorithms/daily/problem670/code/Solution.java) |             | Medium             |
+| [#2044](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/)  | Count Number of Maximum Bitwise OR Subsets | [Java](Algorithms/daily/problem2044/src/Solution.java) |             | Medium             |
 
 ## Contributors
 
