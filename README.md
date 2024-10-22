@@ -10,6 +10,7 @@ Welcome to the LeetCode Solutions repository! Here, you'll find daily solutions 
 | [#350](https://leetcode.com/problems/intersection-of-two-arrays-ii)                            | Intersection Of Two Arrays II                           | [Java](Algorithms/daily/problem350/src/Solution.java)  |             | Easy             |
 | [#27](https://leetcode.com/problems/remove-element)                                            | Remove Element                                          | [Java](Algorithms/daily/problem27/src/Solution.java)   |             | Easy             |
 | [#1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | Split a String Into the Max Number Of Unique Substrings | [Java](Algorithms/daily/problem1593/src/Solution.java) |             | Medium             |
+| [#2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree)                        | Kth Largest Sum in a Binary Tree | [Java](Algorithms/daily/problem2583/src/Solution.java) |             | Medium             |
 
 ## Contributors
 
