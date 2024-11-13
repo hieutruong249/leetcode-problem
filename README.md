@@ -12,7 +12,8 @@ Welcome to the LeetCode Solutions repository! Here, you'll find daily solutions 
 | [#1593](https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings) | Split a String Into the Max Number Of Unique Substrings | [Java](Algorithms/daily/problem1593/src/Solution.java)           |                                                                 | Medium           |
 | [#2583](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree)                        | Kth Largest Sum in a Binary Tree                        | [Java](Algorithms/daily/problem2583/src/Solution.java)           | [Here](Algorithms/daily/problem2583/explanation/explanation.md) | Medium           |
 | [#1](https://leetcode.com/problems/two-sum)                                                    | Two Sum                                                 | [Java](Algorithms/daily/problem1/src/solution/Solution2.java)    | [Here](Algorithms/daily/problem1/explanation/README.md)    | Easy             |
-| [#2070](https://leetcode.com/problems/most-beautiful-item-for-each-query)                                                 | Most Beautiful Item for Each Query                      | [Java](Algorithms/daily/problem2070/src/solution/Solution2.java) | [Here]()    | Medium             |
+| [#2070](https://leetcode.com/problems/most-beautiful-item-for-each-query)                      | Most Beautiful Item for Each Query                      | [Java](Algorithms/daily/problem2070/src/solution/Solution2.java) | [Here]()    | Medium             |
+| [#2563](https://leetcode.com/problems/count-the-number-of-fair-pairs)                      | Count the Number of Fair Pairs                          | [Java](Algorithms/Algorithms/daily/problem2563/src/solution/Solution2.java) | [Here]()    | Medium             |
 
 ## Contributors
 
