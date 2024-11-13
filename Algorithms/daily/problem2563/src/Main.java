@@ -1,8 +1,8 @@
-package Algorithms.Algorithms.daily.problem2563.src;
+package Algorithms.daily.problem2563.src;
 
 
-import Algorithms.Algorithms.daily.problem2563.src.solution.Solution;
-import Algorithms.Algorithms.daily.problem2563.src.solution.Solution2;
+import Algorithms.daily.problem2563.src.solution.Solution;
+import Algorithms.daily.problem2563.src.solution.Solution2;
 
 import java.util.List;
 

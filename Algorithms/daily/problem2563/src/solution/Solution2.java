@@ -1,4 +1,4 @@
-package Algorithms.Algorithms.daily.problem2563.src.solution;
+package Algorithms.daily.problem2563.src.solution;
 
 import java.util.Arrays;
 

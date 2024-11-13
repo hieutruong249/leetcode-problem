@@ -1,4 +1,4 @@
-package Algorithms.Algorithms.daily.problem2563.src;
+package Algorithms.daily.problem2563.src;
 
 
 public class TestCase {
